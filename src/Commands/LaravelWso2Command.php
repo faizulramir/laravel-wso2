@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace FzlxTech\LaravelWso2\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelWso2Command extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-wso2';
 
     public $description = 'My command';
 
